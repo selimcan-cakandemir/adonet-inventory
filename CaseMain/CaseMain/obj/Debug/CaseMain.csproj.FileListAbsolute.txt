@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\CaseMain\CaseMain\bin\Debug\CaseMain.exe.config
+C:\Users\user\Desktop\CaseMain\CaseMain\bin\Debug\CaseMain.exe
+C:\Users\user\Desktop\CaseMain\CaseMain\bin\Debug\CaseMain.pdb
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.Form1.resources
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.Properties.Resources.resources
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.exe
+C:\Users\user\Desktop\CaseMain\CaseMain\obj\Debug\CaseMain.pdb
